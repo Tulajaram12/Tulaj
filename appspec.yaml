@@ -25,3 +25,5 @@ hooks:
   ApplicationStop:
     - location: aws-scripts/app-stop.sh
       timeout: 300
+© 2022 GitHub, Inc.
+Terms
